@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "135439262701",
+    "project_id": "saysomethings-75125",
+    "storage_bucket": "saysomethings-75125.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135439262701:android:1002f67a83ae426497bde4",
+        "android_client_info": {
+          "package_name": "com.example.saysomethings"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "135439262701-j86dmbjcko5hg84aoitlfp8iu4fm6t5t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.saysomethings",
+            "certificate_hash": "749abc73a4d91573e3942093d2da42d8547f9525"
+          }
+        },
+        {
+          "client_id": "135439262701-urd202fjgbnalnl9slauplg1rippf1e5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDf19fkVvak0jTpomZz0rYUOjX7v40ctmU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "135439262701-urd202fjgbnalnl9slauplg1rippf1e5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
